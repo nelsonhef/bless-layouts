@@ -1,0 +1,84 @@
+<layout>
+    <area type="offset">
+        <case>upper</case>
+        <display>
+            <evenrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>                    
+                    <background>#404040</background>
+                </evencolumn>
+            </evenrow>
+            <oddrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>
+                    <background>#404040</background>
+                </evencolumn>
+            </oddrow>
+        </display>
+    </area>
+
+	<area type="separator">
+        <display>
+            <evenrow>
+                <evencolumn>
+                    <foreground>#292929</foreground>
+                    <background>#404040</background>
+                </evencolumn>
+            </evenrow>
+        </display>     
+    </area>
+
+	<area type="hexadecimal">
+        <case>upper</case>
+        <display>
+            <evenrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>                    
+                    <background>#404040</background>
+                </evencolumn>
+                <oddcolumn>
+                    <foreground>#1F9EDE</foreground>
+                    <background>#404040</background>
+                </oddcolumn>
+            </evenrow>
+            <oddrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>                    
+                    <background>#404040</background>
+                </evencolumn>
+                <oddcolumn>
+                    <foreground>#1F9EDE</foreground>
+                    <background>#404040</background>
+                </oddcolumn>
+            </oddrow>
+        </display>
+    </area>
+
+	<area type="separator">
+        <display>
+            <evenrow>
+                <evencolumn>
+                    <foreground>#292929</foreground>
+                    <background>#404040</background>
+                </evencolumn>
+            </evenrow>
+        </display>     
+    </area>
+
+	<area type="ascii">
+        <display>
+            <evenrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>                    
+                    <background>#404040</background>
+                </evencolumn>
+            </evenrow>
+            <oddrow>
+                <evencolumn>
+                    <foreground>#E3E3E3</foreground>                    
+                    <background>#404040</background>
+                </evencolumn>
+            </oddrow>
+        </display>
+    </area>
+</layout>
